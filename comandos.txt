@@ -1,0 +1,20 @@
+dir
+code .
+dir
+cd backend
+cd backend-pokemon
+npm install express sqlite3 multer cors
+cd ..
+npm install
+npm audit fix --force
+git status
+git add .
+git status
+git comit -m "Atualzando backend e o front
+git commit -m "Atualizando backend e o front
+git push
+doskey /h >comandos.txt
+cd backend-pokemon
+npm start
+cd ..
+doskey /h >comandos.txt
